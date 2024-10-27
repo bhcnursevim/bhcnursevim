@@ -1,6 +1,4 @@
-<img width="100%" align="Center" src="https://i.pinimg.com/564x/0e/0d/cc/0e0dcc948534c2d0c185482f085cc969.jpg" alt="background">
-
-
+<img width="15%" align="Center" src="https://i.pinimg.com/564x/7a/7e/73/7a7e73a03112c090b1bbb7829853a1bd.jpg" alt="background">
 
  <br><br>  <img width="70%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0000&background=FF6AAA00&vCenter=false&multiline=true&width=430&height=30&lines=Hi Guys I'm Spidey🕷  ">   
 </p>
