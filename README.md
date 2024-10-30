@@ -7,6 +7,5 @@
 
 <img width="94.5%" align="center" src="https://c4.wallpaperflare.com/wallpaper/1002/562/398/muhammad-ali-boxer-wallpaper-preview.jpg" alt="background">
 
-<p align="center">
-     <img align="Center" width="94.5%"src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
+
+
