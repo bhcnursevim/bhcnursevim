@@ -8,7 +8,7 @@ Communication : [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&l
 
 ![](https://github-readme-stats.vercel.app/api?username=bhcnursevim&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhcnursevim&theme=blue-green&hide_border=true)
-<img width="30%" align="center" src="https://i.pinimg.com/736x/a6/6d/4b/a66d4b3e5921606876ffffb5e9a96827.jpg" alt="background">
+<img width="60%" align="center" src="https://i.pinimg.com/736x/a6/6d/4b/a66d4b3e5921606876ffffb5e9a96827.jpg" alt="background">
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=980808&center=true&vCenter=true&multiline=false&repeat=false&width=600&lines=+Hayalleri+olmayanların+kanatları+da+yoktur" alt="Typing SVG" /></a>
